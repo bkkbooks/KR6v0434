@@ -1,0 +1,322 @@
+canonical_identifier: bkk:krp/KR6v0434/v1
+canonical_location: https://kanripo.org/bkk/KR6v0434/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 出定後語
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0172.xml
+    old_id: B32n0172
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0434_000.yaml, hash: 'sha256:a7f8ef02e22196700e68327472e5fe1017df8468f982abe8e074cd1221c9f4e7'}
+  - {seq: 1, filename: KR6v0434_001.yaml, hash: 'sha256:a27e8adce260f86a385b63ca6d82314cc5f69e1d191f732dd13b819a3862254d'}
+  - {seq: 2, filename: KR6v0434_002.yaml, hash: 'sha256:d46cda4be5af4afd0101a1b8c677c61f27b20f98734e2c4522420c6c76c9a6db'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0434_000.markers.yaml, hash: 'sha256:7962a5e774d6cdb865ff44d08b76a749aa7779adc09815fdf57c2477cb12594c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0434_001.markers.yaml, hash: 'sha256:b6a8c313d1d29c3ed1d38b6c8a869c551ae73a95a24b67c55d0cd9af09d9bd20'}
+  - {seq: 2, role: markers, filename: assets/KR6v0434_002.markers.yaml, hash: 'sha256:7b442a2db3c1d7f33754707f3474c901e1415b4b84eef796e69bd09326ca385e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0434_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0434_B_000-mulu-2
+    span:
+    - front
+    - 251
+    - 251
+  label: 原書目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 14975
+  label: 出定後語卷之上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 教起前後　第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-2
+    span:
+    - body
+    - 1968
+    - 1968
+  label: 經說異同　第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-3
+    span:
+    - body
+    - 2928
+    - 2928
+  label: 如是我聞　第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-4
+    span:
+    - body
+    - 3738
+    - 3738
+  label: 須彌諸天世界　第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-5
+    span:
+    - body
+    - 5067
+    - 5067
+  label: 三藏、阿毘曇、修多羅、伽陀　第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-6
+    span:
+    - body
+    - 6477
+    - 6477
+  label: 九部、十二部、方等乘　第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-7
+    span:
+    - body
+    - 7260
+    - 7260
+  label: 涅槃華嚴二喻　第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-8
+    span:
+    - body
+    - 8098
+    - 8098
+  label: 神通　第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-9
+    span:
+    - body
+    - 9515
+    - 9515
+  label: 地位　第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-10
+    span:
+    - body
+    - 11306
+    - 11306
+  label: 七佛三祇　第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-11
+    span:
+    - body
+    - 12346
+    - 12346
+  label: 言有三物　第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-12
+    span:
+    - body
+    - 13267
+    - 13267
+  label: 八識　第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0434_B_001-mulu-13
+    span:
+    - body
+    - 14023
+    - 14023
+  label: 四諦、十二因緣、六度　第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 14617
+  label: 出定後語卷之下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 戒　第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-2
+    span:
+    - body
+    - 792
+    - 792
+  label: 室娶　第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-3
+    span:
+    - body
+    - 1890
+    - 1890
+  label: 肉食　第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-4
+    span:
+    - body
+    - 2512
+    - 2512
+  label: 有宗　第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-5
+    span:
+    - body
+    - 3240
+    - 3240
+  label: 空有　第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-6
+    span:
+    - body
+    - 4334
+    - 4334
+  label: 南三北七　第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-7
+    span:
+    - body
+    - 5144
+    - 5144
+  label: 禪家祖承　第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-8
+    span:
+    - body
+    - 6101
+    - 6101
+  label: 曼陀羅氏　第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-9
+    span:
+    - body
+    - 6843
+    - 6843
+  label: 外道　第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-10
+    span:
+    - body
+    - 8248
+    - 8248
+  label: 佛出朝代　第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-11
+    span:
+    - body
+    - 9051
+    - 9051
+  label: 三教　第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0434_B_002-mulu-12
+    span:
+    - body
+    - 10494
+    - 10494
+  label: 雜　第二十五
+  type: mulu
+  level: 1
+hash: sha256:a2b70359d3f56a21c223237615cd0042662e49964648cec0b0fa0c652f9d0096
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
